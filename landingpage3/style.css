@@ -382,7 +382,7 @@ nav{
 
 .lounge_image img:nth-last-child(1){
     max-width: 200px;
-    transform: translate(calc(-50% - 3rem), -50%);
+    transform: translate(calc(-30% - 3rem), -50%);
 }
 .lounge_image img:nth-last-child(2) {
     max-width: 200px;
